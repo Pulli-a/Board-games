@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "card_game_core.h": "c",
-        "trash_functions.h": "c",
-        "titles.h": "c"
-    }
-}
