@@ -1,3 +1,7 @@
+//TODO: Aggiungi commenti per documentazione
+#ifndef _GLOBALS_
+#define _GLOBALS_
+
 //basic boolean definitio
 #define FALSE 0
 #define TRUE 1
@@ -19,3 +23,5 @@ typedef struct card{
 }Card;
 extern int DECK_POINTER;
 extern Card* deck[52];
+
+#endif
