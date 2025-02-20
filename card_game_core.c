@@ -2,6 +2,7 @@
 #include <time.h>
 #include <stdlib.h>
 #include "headers/globals.h"
+#include "headers/card_game_core.h"
 
 
 int shuffle(Card* deck[]){

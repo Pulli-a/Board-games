@@ -1,4 +1,7 @@
 #include <stdio.h>
+#include "headers/titles.h"
+
+
 void clear_terminal(){
     printf("\e[1;1H\e[2J"); // cleans terminal
 }

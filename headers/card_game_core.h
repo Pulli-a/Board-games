@@ -1,3 +1,8 @@
+/** \file card_game_core.h
+ * \brief has all core funcion for a card game
+ * \author Alessandro Maryni
+ */
+
 #include "globals.h"
 
 #ifndef _CARD_GAME_CORE_

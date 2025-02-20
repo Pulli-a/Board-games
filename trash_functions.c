@@ -2,7 +2,10 @@
 #include <stdlib.h>
 #include <unistd.h>
 #include <time.h>
+//local libraries
+#include "headers/globals.h"
 #include "headers/card_game_core.h"
+#include "headers/trash_functions.h"
 #include "headers/titles.h"
 
 #define AUDIO if(audio == 1)

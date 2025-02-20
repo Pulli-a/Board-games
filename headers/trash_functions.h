@@ -1,3 +1,8 @@
+/** \file trash_functions.h
+ * \brief has all functions for the game trash
+ * \author Alessandro Maryni
+ */
+
 #ifndef _TRASH_FUNCTIONS_
 #define _TRASH_FUNCTIONS_
 

@@ -1,3 +1,8 @@
+/** \file titles.h
+ * \brief has all ascii art title functions
+ * \author Alessandro Maryni
+ */
+
 #ifndef _TITLES_
 #define _TITLES_
 

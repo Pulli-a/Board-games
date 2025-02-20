@@ -1,4 +1,8 @@
-//TODO: Aggiungi commenti per documentazione
+/** \file globals.h
+ * \brief has all global variable plus some defines
+ * \author Alessandro Maryni
+ */
+
 #ifndef _GLOBALS_
 #define _GLOBALS_
 

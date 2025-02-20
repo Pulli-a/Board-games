@@ -1,5 +1,6 @@
 //comando per compilare dal terminale:
 //gcc main.c card_game_core.c trash_functions.c titles.c -o CardGames
+
 #include <stdio.h>
 #include <unistd.h> //for sleep function
 
