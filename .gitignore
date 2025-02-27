@@ -1,3 +1,7 @@
+#manual added
+.vscode
+.json
+
 # Prerequisites
 *.d
 

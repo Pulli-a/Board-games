@@ -1,0 +1,5 @@
+TODO:
+
+1) titolo per wordle
+2) settings per wordle
+3) altri giochi

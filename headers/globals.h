@@ -25,6 +25,14 @@ typedef struct card{
     int face;
     int shown;
 }Card;
+
+typedef struct board{
+    char board[6][5];
+    int scores[6][5];
+    int attempt;
+    char word[5];
+}Board;
+
 extern int DECK_POINTER;
 extern Card* deck[52];
 

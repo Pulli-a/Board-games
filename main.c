@@ -7,6 +7,7 @@
 #include "headers/card_game_core.h"
 #include "headers/trash_functions.h"
 #include "headers/titles.h"
+#include "headers/wordle.h"
 
 //ALL GLOBAL VARIABLES
 int DECK_POINTER = 0;
@@ -28,6 +29,9 @@ int main(){
         {
         case 1:
             trash();
+            break;
+        case 2:
+            wordle();
             break;
 
         case 0:
@@ -51,10 +55,10 @@ int print_intro(){
     printf("press 'enter' to start\n");
     getchar();
     do{
-        clear_terminal();
-        //TODO: aggiungi il titolino "card games"
+        print_mini_main_title();
         printf("select the game:\n");
         printf("1) trash\n");
+        printf("2) worlde\n");
         printf("0) exit\n");
         scanf("%d", &game);
     }while(game < 0 && game > 1);
